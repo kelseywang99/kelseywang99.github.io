@@ -9,4 +9,3 @@ permalink: /miscellany/
 	<li><a href="extracurricular">Extracurriculars</a> - A glimpse into my non-academic life!</li>
 </ul>
 
-You can add other topics by editing `miscellany.md` and `_data/menu.yml`.
