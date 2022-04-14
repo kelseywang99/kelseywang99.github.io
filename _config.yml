@@ -1,0 +1,27 @@
+# Site settings
+title: Huimin Wang
+general_email: kelseywang99@gmail.com
+academic_email: hw447@cornell.edu
+
+description: > # this means to ignore newlines until "baseurl:"
+  Master of Financial Engineering Student at Cornell University; 
+  Incoming Summer Intern at Credit Suisse
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+
+url: "https://kelseywang99.github.io" # the base hostname & protocol for your site
+
+# twitter_username: jekyllrb
+github_username: kelseywang99
+linkedin_username: wanghuimin1
+facebook_username: huimin.wang.733
+# feel free to add other links here; you will have to add the SVG icon in _layouts/footer.html
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  math_engine: mathjax
+
+# Other options
+permalink: blog/:year/:month/:title
