@@ -20,7 +20,7 @@ Here is a list of my academic projects.
 
 	
 	<li>
-		<b>Animal Classification with Domain Adversarial Training</b>:Classify pictures of different animals using domain-adversarial training, solving the problem of different distribution of source input data and target input data.<br> 
+		<b>Animal Classification with Domain Adversarial Training</b>: Implemented domain-adversarial training to classify pictures of different animals, solving the problem of different distribution of source  data and target data.<br> 
 		<a href="Domain_Adversarial_Training.pdf"><div class="color-button">Report</div></a><a href="https://github.com/kelseywang99/Domain_Adversarial_Training"><div class="color-button">Code</div></a>
 	</li><br>		
 	
@@ -39,18 +39,18 @@ Here is a list of my academic projects.
 
 
 	<li>
-		<b>Question Answering System</b>:Designed a simple Question Answering System that can answer questions based on the corpus given using the tf-idf model.<br> 
+		<b>Question Answering System</b>:Designed a simple Question Answering System that can answer questions based on the given corpus using the TF-IDF model.<br> 
 		<a href="https://github.com/kelseywang99/QASystem"><div class="color-button">Code</div></a><a href="https://en.wikipedia.org/wiki/Question_answering"><div class="color-button">Question Answering Introduction</div></a>
 	</li><br>	
 	
 
 	<li>
-		<b>Winning Strategy for the game Nim</b>:Apply reinforcement learning to train the winning strategy for the game Nim.<br> 
+		<b>Winning Strategy for the game Nim</b>:Applied reinforcement learning to train the winning strategy for the game Nim.<br> 
 		<a href="https://github.com/kelseywang99/NIM"><div class="color-button">Code</div></a><a href="https://en.wikipedia.org/wiki/Nim"><div class="color-button">Game Introduction</div></a>
 	</li><br>	
 	
 	<li>
-		<b>Winning Strategy for the game Tic-Tac-Toe</b>:Apply minimax algorithm with alpha-beta pruning to design the winning strategy for the game Tic-Tac-Toe.<br> 
+		<b>Winning Strategy for the game Tic-Tac-Toe</b>:Applied minimax algorithm with alpha-beta pruning to design the winning strategy for the game Tic-Tac-Toe.<br> 
 		<a href="https://github.com/kelseywang99/Tictactoe.git"><div class="color-button">Code</div></a><a href="https://en.wikipedia.org/wiki/Tic-tac-toe"><div class="color-button">Game Introduction</div></a>
 	</li><br>	
 	
@@ -58,7 +58,7 @@ Here is a list of my academic projects.
 	
 	
 	<li>
-		<b> Teaming Strategies</b>: This is a Math Modeling project of the Interdisciplinary Contest in Modeling in 2020. As the caption of a team with 3 people, I lead my team members to build Mathmatical models to analyze a soccer team's performance. Our solution stood out and we were designated as meritorious winner.<br> 
+		<b> Teaming Strategies</b>:  Built Mathematical models (e.g. Social Network, Analytic Hierarchy Process) to analyze a soccer team's performance. This is a project of the Interdisciplinary Contest in Modeling in 2020. As the caption, I lead my team to deliver outstanding solution and was designated as meritorious winner.<br> 
 		<a href="MCM.pdf"><div class="color-button">Report</div></a><a href="https://www.mathmodels.org/Problems/2020/ICM-D/index.html"><div class="color-button">Problem Description</div></a>
 	</li><br>
 
